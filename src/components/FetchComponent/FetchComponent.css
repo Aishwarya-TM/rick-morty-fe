@@ -1,0 +1,58 @@
+/* *
+{
+    box-sizing: border-box;    
+    background-color: black;
+}
+.box
+{
+    display: flex;
+    margin: 5px;
+    border: solid 1px black;
+    background-color: rgb(67, 62, 62);
+    color: white;
+    width: 600px;
+    height: 300px;
+    border-radius: 5px;
+}
+    
+.box2
+{
+    color: rgb(144, 129, 129);
+    background-color:rgb(67, 62, 62) ;
+}
+.main
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#header
+{
+    color: white;
+}
+.box1
+{
+    background-color: rgb(67, 62, 62);
+    padding-left: 5px;
+}
+
+
+#header {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+ font-size: 75px;
+}
+.box1{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+}
+.button
+{
+    display: flex;
+   justify-content: center;
+}
+
+#btn2
+{
+    margin-left: 100%;
+} */
